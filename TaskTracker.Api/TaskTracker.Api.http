@@ -1,0 +1,7 @@
+@TaskTracker.Api_HostAddress = http://localhost:5176
+
+GET {{TaskTracker.Api_HostAddress}}/task/
+Accept: application/json
+
+
+###
