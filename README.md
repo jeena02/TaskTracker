@@ -41,11 +41,11 @@ TaskTracker
 
 | Method | Endpoint    | Description    |
 | ------ | ----------- | -------------- |
-| POST   | /tasks      | Create task    |
-| GET    | /tasks      | Get all tasks  |
-| GET    | /tasks/{id} | Get task by ID |
-| PUT    | /tasks/{id} | Update task    |
-| DELETE | /tasks/{id} | Delete task    |
+| POST   | /task      | Create task    |
+| GET    | /task      | Get all tasks  |
+| GET    | /task/{id} | Get task by ID |
+| PUT    | /task/{id} | Update task    |
+| DELETE | /task/{id} | Delete task    |
 
 ---
 
